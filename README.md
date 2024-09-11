@@ -1,5 +1,4 @@
-<img src='https://img.icons8.com/?size=100&id=aJPLw-4jUCR3&format=png&color=000000
-'>
+![Icone de um mini programador](https://img.icons8.com/?size=100&id=aJPLw-4jUCR3&format=png&color=000000)
 
 𝐎𝐥𝐚́ 😁, 𝐁𝐞𝐦 𝐯𝐢𝐧𝐝𝐨𝐬 𝐚𝐨 𝐦𝐞𝐮 𝐩𝐞𝐫𝐟𝐢𝐥!
 
