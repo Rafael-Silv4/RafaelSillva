@@ -1,4 +1,5 @@
-![MasterHead](https://es.pngtree.com/freepng/coding-clipart-guy-in-glasses-computer-tech-cartoon-vector-illustration_15035827.html)
+![MasterHead](![image](https://github.com/user-attachments/assets/8b87e980-574a-4751-abad-50f895eb07f5)
+)
 
 𝐎𝐥𝐚́ 😁, 𝐁𝐞𝐦 𝐯𝐢𝐧𝐝𝐨𝐬 𝐚𝐨 𝐦𝐞𝐮 𝐩𝐞𝐫𝐟𝐢𝐥!
 
