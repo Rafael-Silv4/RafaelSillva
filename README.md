@@ -1,5 +1,5 @@
-![MasterHead](![image](https://github.com/user-attachments/assets/8b87e980-574a-4751-abad-50f895eb07f5)
-)
+<img src='![Uploading image.png…]()
+'>
 
 𝐎𝐥𝐚́ 😁, 𝐁𝐞𝐦 𝐯𝐢𝐧𝐝𝐨𝐬 𝐚𝐨 𝐦𝐞𝐮 𝐩𝐞𝐫𝐟𝐢𝐥!
 
