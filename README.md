@@ -2,7 +2,7 @@
 
 𝐎𝐥𝐚́ 😁, 𝐁𝐞𝐦 𝐯𝐢𝐧𝐝𝐨𝐬 𝐚𝐨 𝐦𝐞𝐮 𝐩𝐞𝐫𝐟𝐢𝐥!
 
-Me chamo Rafael Conceição da Silva e sou um jovem programador Front-End de 24 anos, crio meus projetos com HTML, CSS, JavaScript, TypeScript e React o qual eu ainda estou desenvolvendo mais como programador Front, tenho buscado conhecimentos no Back-End e suas ferramentas, aprendendo a utilizar API e me atualizando diariamento no mundo da programação. Espero lhe entregar uma ótima experiência ao olhar meus projetos.
+Me chamo Rafael Conceição da Silva e sou um jovem programador Front-End de 25 anos, crio meus projetos com HTML, CSS, JavaScript, TypeScript e React o qual eu ainda estou desenvolvendo mais como programador Front, tenho buscado conhecimentos no Back-End e suas ferramentas, aprendendo a utilizar API e me atualizando diariamento no mundo da programação. Espero lhe entregar uma ótima experiência ao olhar meus projetos.
 
 
 <p align='center'>
