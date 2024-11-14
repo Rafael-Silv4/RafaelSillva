@@ -29,12 +29,7 @@ JWT: Implementação de autenticação segura em aplicativos web com tokens JSON
 
 
 ## 🚀  Um pouco mais sobre o meu perfil:
-<a href="https://github.com/RafaelSillva/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+![Rafael-Silv4 GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelSilva&show_icons=true&theme=radical)
 
 
 𝑴𝒖𝒔𝒊𝒄𝒂𝒔 𝒆𝒔𝒄𝒖𝒕𝒂𝒅𝒂𝒔 𝒓𝒆𝒄𝒆𝒏𝒕𝒆𝒎𝒆𝒏𝒕𝒆:
