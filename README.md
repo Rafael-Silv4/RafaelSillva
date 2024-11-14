@@ -28,7 +28,8 @@ Express.js: Framework para Node.js para a criação de APIs RESTful e middleware
 JWT: Implementação de autenticação segura em aplicativos web com tokens JSON Web.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+## 🚀  Um pouco mais sobre o meu perfil:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael_icons=true&theme=synthwave)
 
 
 𝑴𝒖𝒔𝒊𝒄𝒂𝒔 𝒆𝒔𝒄𝒖𝒕𝒂𝒅𝒂𝒔 𝒓𝒆𝒄𝒆𝒏𝒕𝒆𝒎𝒆𝒏𝒕𝒆:
