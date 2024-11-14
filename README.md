@@ -29,7 +29,7 @@ JWT: Implementação de autenticação segura em aplicativos web com tokens JSON
 
 
 ## 🚀  Um pouco mais sobre o meu perfil:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelanuraghazra&show_icons=true&theme=synthwave)
 
 
 𝑴𝒖𝒔𝒊𝒄𝒂𝒔 𝒆𝒔𝒄𝒖𝒕𝒂𝒅𝒂𝒔 𝒓𝒆𝒄𝒆𝒏𝒕𝒆𝒎𝒆𝒏𝒕𝒆:
